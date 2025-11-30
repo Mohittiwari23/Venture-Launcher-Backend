@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Indus Equity Partners",
+    "investorType": "Private Equity / Growth",
+    "preferredStartupStages": ["Scaling", "Growth", "Pre-IPO"],
+    "focusIndustries": ["Sector-agnostic"],
+    "focusSector": "Private Equity",
+    "serviceAreas": ["Capital", "Growth Funding"],
+    "investmentRange": {
+      "min": 4150000000,
+      "max": 8300000000,
+      "currency": "INR"
+    },
+    "investmentRangeLabel": "₹415 Cr - ₹830 Cr INR",
+    "location": "Gurgaon, Haryana, India",
+    "stageLabel": "Scaling, Growth, Pre-IPO"
+  },
+  {
+    "name": "SeedSpark Ventures",
+    "investorType": "Venture Capital",
+    "preferredStartupStages": ["Pre-seed", "Seed", "Series A"],
+    "focusIndustries": ["SaaS", "Fintech", "Marketplaces"],
+    "focusSector": "Technology",
+    "serviceAreas": ["Capital", "Mentorship", "Network Access"],
+    "investmentRange": {
+      "min": 20000000,
+      "max": 150000000,
+      "currency": "INR"
+    },
+    "investmentRangeLabel": "₹2 Cr - ₹15 Cr INR",
+    "location": "Bangalore, Karnataka, India",
+    "stageLabel": "Pre-seed, Seed, Series A"
+  },
+  {
+    "name": "Green Horizon Capital",
+    "investorType": "Impact Fund",
+    "preferredStartupStages": ["Seed", "Series A"],
+    "focusIndustries": ["Cleantech", "Climate", "Sustainability"],
+    "focusSector": "Cleantech",
+    "serviceAreas": ["Capital", "Partnerships"],
+    "investmentRange": {
+      "min": 10000000,
+      "max": 80000000,
+      "currency": "INR"
+    },
+    "investmentRangeLabel": "₹1 Cr - ₹8 Cr INR",
+    "location": "Mumbai, Maharashtra, India",
+    "stageLabel": "Seed, Series A"
+  }
+]

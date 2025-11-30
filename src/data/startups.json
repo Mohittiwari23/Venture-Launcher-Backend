@@ -1,0 +1,47 @@
+[
+  {
+    "name": "KRUSHIE METALS PRIVATE LIMITED",
+    "location": "Hyderabad, Telangana, India",
+    "industrySector": "Cleantech",
+    "stage": "EarlyTraction",
+    "businessModel": "Waste Recycling",
+    "fundingNeeds": {
+      "min": 5000000,
+      "max": 40000000,
+      "currency": "INR"
+    },
+    "fundingNeedsLabel": "₹50 L - ₹4 Cr INR",
+    "fundingType": "Seed / Series A",
+    "milestone": "MVP Launched"
+  },
+  {
+    "name": "KADARIS SOFTWARE SERVICES PRIVATE LIMITED",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "industrySector": "IT Services",
+    "stage": "Prototype",
+    "businessModel": "SaaS Solutions",
+    "fundingNeeds": {
+      "min": 800000,
+      "max": 5000000,
+      "currency": "INR"
+    },
+    "fundingNeedsLabel": "₹8 L - ₹50 L INR",
+    "fundingType": "Pre-seed",
+    "milestone": "Prototype Developed"
+  },
+  {
+    "name": "SAFAL SERVICES",
+    "location": "Mehsana, Gujarat, India",
+    "industrySector": "HRTech",
+    "stage": "Prototype",
+    "businessModel": "Recruitment Solutions",
+    "fundingNeeds": {
+      "min": 800000,
+      "max": 5000000,
+      "currency": "INR"
+    },
+    "fundingNeedsLabel": "₹8 L - ₹50 L INR",
+    "fundingType": "Pre-seed",
+    "milestone": "Prototype Developed"
+  }
+]
